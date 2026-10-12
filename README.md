@@ -39,7 +39,7 @@ It replaces manual scheduling with an automated system that:
 
 ---
 
-## 🛠 Technologies
+## 🛠 Technologies 
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Python (Flask)
